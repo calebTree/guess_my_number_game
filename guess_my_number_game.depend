@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548821324 source:d:\csci 1081\c++ programs\guess_my_number_game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1548821672 source:d:\csci 1081\c++ programs\extra\guess_my_number_game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
